@@ -1,2 +1,2 @@
-### Hi. I'm just trying out this new feature. I got nothing to put on. I like React lol.
+### Hi. Just trying out this new feature. I got nothing to put in this. I like React lol.
 
