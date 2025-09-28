@@ -5,7 +5,7 @@
 -->
 
 # Hi, I'm Christian Jaena 👋
-### Software Engineer • Backend (Java / Spring Boot) • Microservices fan
+### Software Engineer • Backend (Java / Spring Boot) • Microservices
 
 <p align="left">
   <a href="https://linkedin.com/in/christian-jaena-45490218b" target="_blank" rel="noopener">
